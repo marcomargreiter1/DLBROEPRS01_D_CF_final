@@ -1,0 +1,3 @@
+﻿  Schnittstelle.c
+C:\Users\Josef\Desktop\Projekt Marco\Rechner Fertig\Schnittstelle\Schnittstelle\Schnittstelle.c(52,35): warning C4267: "Funktion": Konvertierung von "size_t" nach "DWORD", Datenverlust möglich
+  Schnittstelle.vcxproj -> C:\Users\Josef\Desktop\Projekt Marco\Rechner Fertig\Schnittstelle\x64\Debug\Schnittstelle.exe
