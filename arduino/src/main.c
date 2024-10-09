@@ -100,7 +100,7 @@ int main(void) {
     while (1) {
         uart_getstr(buffer, sizeof(buffer));  /////// String vom UART empfangen
 
-        // Berechnung durchführen und Ergebnis senden
+        /////// Berechnung durchführen und Ergebnis senden
         int result = calculate(buffer);
         itoa(result, result_str, 10);  /////// Konvertiere das Ergebnis in eine Zeichenkette
         uart_putstr(result_str);
